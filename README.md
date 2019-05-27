@@ -1,4 +1,4 @@
-# # Laby4Bot
+# Laby4Bot
 
 Modular labyrinthe for educational robot.
 
